@@ -1,12 +1,23 @@
 Dev ops
 =======================================
 
-Standard SDLC Phases:
+Standard Waterfall SDLC Phases:
 - Requirement 
 - Design
 - Development
 - testing 
 - Deployment
+
+In DevOps Model
+- Plan
+- Code - git, python 
+- Build - Gradle, maven
+- Test - Selenium, JUit
+- Release - Jenkins, GitLab 
+- Deploy - LXC, Docker, AWS
+- Operate - Terraform, Ansible, Kubernetes
+- Monitor - Grafana, ArgoCD
+
 
 
 
